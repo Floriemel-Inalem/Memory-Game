@@ -2,6 +2,7 @@ Week 1:
 Created the UI/UX design for my mobile app using Figma.
 
 Week 2:
+
 Installed Android Studio and familiarized myself with some of its features.
 Opted to use Visual Studio Code instead of Android Studio.
 
