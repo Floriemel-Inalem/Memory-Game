@@ -1,0 +1,33 @@
+name: memory_game
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.0.5
+  hive_flutter: ^1.1.0
+  confetti: ^0.7.0
+  cupertino_icons: ^1.0.2
+  path_provider: ^2.0.13 
+  path_provider_android: ^2.0.12
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.9.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/image/icon.png"
+  
+
+flutter:
+  uses-material-design: true
